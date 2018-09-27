@@ -1,5 +1,5 @@
 # Arcade Game
-### Based on the classic Arcade game Frogger, this project allowed the developer to put into practice, new learned, Object-Oriented coding.  
+  Based on the classic Arcade game __Frogger__, this project allowed the developer to put into practice, new learned, Object-Oriented coding.  
 
 # Game specifications
 ### Error Free: game should contain no errors ### and demonstrates the following:
