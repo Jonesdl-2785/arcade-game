@@ -1,28 +1,37 @@
 # Arcade Game
-Based on the classic Arcade game Frogger, this project allowed the developer to put into practice, new learned, Object-Oriented coding.  
+### Based on the classic Arcade game Frogger, this project allowed the developer to put into practice, new learned, Object-Oriented coding.  
 
 # Game specifications
-Error Free: game should contain no errors and demonstrates the following:
-1. 1.  Player can not move off screen
-1. 2.  Vehicles cross the screen
-1. 3.  Vehicle-player collisions happen logically     (not too early or too late)
-1. 4.  Vehicle-player collision resets the game
-1. 5.  Something happens when player wins
+### Error Free: game should contain no errors ### and demonstrates the following:
+2.   Player can not move off screen
+2.   Vehicles cross the screen
+2.   Vehicle-player collisions happen logically     (not too early or too late)
+2.   Vehicle-player collision resets the game
+2.   Something happens when player wins
+
+## Game instructions
+2.  Open the Index.html file in your browser
+2.  Use your arrows keys (up, down, left and right) to maneuver the Hero around the board to avoid colliding with bugs.
+2.  If the Hero and a bug collides, an alert will trigger, and the Hero will be sent back to starting point.
+2.  If Hero makes it to the water, you will be prompted for your name, then an alert will trigger that you won.
+
+## Game future
+#### Future improvements to the game will include a full modal with timer, a score board and/or a you won animation
 
 ## Source code
-Can be found here:
+###Can be found here:
 [Udacity Arcade Game] (https://github.com/udacity/frontend-nanodegree-arcade-game)
 
-The game assets are all provided.  All coding should be done within the app.js file.
+#### The game assets are all provided.  All coding should be done within the app.js file.
 
-# Challenges and issues
+## Challenges and issues
 The biggest challenge was getting positioning correct and the coding for collision.
 
-# Shout outs and Code helps
-[MDN] (https://developer.mozilla.org/en-US/)
-[Udacity knowledge base]
+### Shout outs and Code helps
+* [MDN] (https://developer.mozilla.org/en-US/)
+* [Udacity knowledge base]
 (https://knowledge.udacity.com/questions/10129)
 https://sites.google.com/udacity.com/gwgdevscholarship/fend/fend-resources?authuser=0)
-[Other Resources]
+* [Other Resources]
 (https://www.diigo.com/outliner/fj3m65/Udacity-Classic-Arcade-Game-Project-(project-%233)?key=al7ek43dms)
-***Walkthroughs: Lloan, Matthow Cranford***
+*Walkthroughs: Lloan, Matthow Cranford*
