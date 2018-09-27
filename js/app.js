@@ -57,14 +57,14 @@ Enemy.prototype.render = function() {
 // This class requires an update(), render() and
 // a handleInput() method.
 const Player = function(x, y, sprite) {
-    // x and y position of player
-    this.x = x;
-    this.y = y;
-    this.end = this.y - 50;
-    this.sprite = sprite;
-    this.height = 75;
-    this.width = 65;
-  };
+  // x and y position of player
+  this.x = x;
+  this.y = y;
+  this.end = this.y - 50;
+  this.sprite = sprite;
+  this.height = 75;
+  this.width = 65;
+};
 
 Player.prototype.update = function(dt) {
   for (let enemy of allEnemies) {
