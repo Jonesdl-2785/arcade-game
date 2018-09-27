@@ -3,17 +3,17 @@
 
 # Game specifications
 ### Error Free: game should contain no errors ### and demonstrates the following:
-2.   Player can not move off screen
-2.   Vehicles cross the screen
-2.   Vehicle-player collisions happen logically     (not too early or too late)
-2.   Vehicle-player collision resets the game
-2.   Something happens when player wins
+1.  Player can not move off screen
+1.  Vehicles cross the screen
+1.  Vehicle-player collisions happen logically     (not too early or too late)
+1.  Vehicle-player collision resets the game
+1.  Something happens when player wins
 
 ## Game instructions
-2.  Open the Index.html file in your browser
-2.  Use your arrows keys (up, down, left and right) to maneuver the Hero around the board to avoid colliding with bugs.
-2.  If the Hero and a bug collides, an alert will trigger, and the Hero will be sent back to starting point.
-2.  If Hero makes it to the water, you will be prompted for your name, then an alert will trigger that you won.
+1. Open the Index.html file in your browser
+1. Use your arrows keys (up, down, left and right) to maneuver the Hero around the board to avoid colliding with bugs.
+1. If the Hero and a bug collides, an alert will trigger, and the Hero will be sent back to starting point.
+1. If Hero makes it to the water, you will be prompted for your name, then an alert will trigger that you won.
 
 ## Game future
 #### Future improvements to the game will include a full modal with timer, a score board and/or a you won animation
