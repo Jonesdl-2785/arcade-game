@@ -19,7 +19,7 @@
 #### Future improvements to the game will include a full modal with timer, a score board and/or a you won animation
 
 ## Source code
-###Can be found here:
+### Can be found here:
 [Udacity Arcade Game] (https://github.com/udacity/frontend-nanodegree-arcade-game)
 
 #### The game assets are all provided.  All coding should be done within the app.js file.
@@ -34,4 +34,5 @@ The biggest challenge was getting positioning correct and the coding for collisi
 https://sites.google.com/udacity.com/gwgdevscholarship/fend/fend-resources?authuser=0)
 * [Other Resources]
 (https://www.diigo.com/outliner/fj3m65/Udacity-Classic-Arcade-Game-Project-(project-%233)?key=al7ek43dms)
-*Walkthroughs: Lloan, Matthow Cranford*
+* Walkthroughs: Lloan, Matthow Cranford
+* Mentors: Roderick Bloomfield & Ryan Boris
